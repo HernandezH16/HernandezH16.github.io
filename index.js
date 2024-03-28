@@ -1,4 +1,4 @@
-new Morris.Line({
+Morris.Line({
     // ID of the element in which to draw the chart.
     element: 'david',
     // Chart data records -- each entry in this array corresponds to a point on
